@@ -1,0 +1,6780 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "nguyenvana@example.com",
+      "username": "nguyenvana",
+      "password": "password123",
+      "created_at": "2025-01-10T09:30:00Z",
+      "favorites": [
+        42,
+        7,
+        86,
+        55,
+        19,
+        63,
+        3,
+        98,
+        29,
+        76
+      ]
+    },
+    {
+      "id": 2,
+      "email": "tranthib@example.com",
+      "username": "tranthib",
+      "password": "abc12345",
+      "created_at": "2025-02-18T14:15:00Z",
+      "favorites": [
+        11,
+        94,
+        26,
+        72,
+        58,
+        90,
+        44,
+        35,
+        68,
+        4,
+        1,
+        3,
+        2,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": 3,
+      "email": "lequangc@example.com",
+      "username": "lequangc",
+      "password": "securepass",
+      "created_at": "2025-03-25T08:45:00Z",
+      "favorites": [
+        48,
+        100,
+        24,
+        67,
+        36,
+        14,
+        81,
+        59,
+        19,
+        25,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "email": "phamthid@example.com",
+      "username": "phamthid",
+      "password": "mypassword",
+      "created_at": "2025-04-02T10:00:00Z",
+      "favorites": [
+        21,
+        84,
+        6,
+        53,
+        40,
+        16,
+        88,
+        33,
+        96,
+        61
+      ]
+    },
+    {
+      "id": 5,
+      "email": "doanvanh@example.com",
+      "username": "doanvanh",
+      "password": "test1234",
+      "created_at": "2025-05-12T16:20:00Z",
+      "favorites": [
+        78,
+        10,
+        50,
+        91,
+        27,
+        64,
+        37,
+        85,
+        45,
+        12
+      ]
+    },
+    {
+      "id": 1761836600955,
+      "email": "mtung3365@gmail.com",
+      "username": "tung",
+      "password": "09042006ha$$Tung",
+      "created_at": "2025-10-30T15:03:20.955Z",
+      "favorites": [
+        1,
+        4,
+        33,
+        32,
+        40
+      ]
+    }
+  ],
+  "foods": [
+    {
+      "id": 1,
+      "name": "Chicken Breast (boneless, skinless)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Poultry",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 5,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 2,
+      "name": "Broccoli (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Cruciferous"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 1,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 3,
+      "name": "Lemon (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Citrus"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 10,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 4,
+      "name": "Salmon (fillet)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Seafood",
+        "High Protein",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 5,
+      "name": "Brown Rice (uncooked)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Carbohydrate"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 2,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 6,
+      "name": "Banana (ripe)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 5,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 7,
+      "name": "Butter (unsalted)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy",
+        "Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 8,
+      "name": "Garlic (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Aromatics"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 10
+    },
+    {
+      "id": 9,
+      "name": "Avocado",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 10,
+      "name": "Egg (chicken)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Eggs",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 10,
+      "micronutrientsId": 1
+    },
+    {
+      "id": 11,
+      "name": "Bread (whole-grain)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Bakery"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 5,
+      "micronutrientsId": 1
+    },
+    {
+      "id": 12,
+      "name": "Bell Pepper (mixed colors)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Nightshade"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 4,
+      "micronutrientsId": 2
+    },
+    {
+      "id": 13,
+      "name": "Zucchini",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Squash"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 2,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 14,
+      "name": "Red Onion",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Allium"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 4,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 15,
+      "name": "Cucumber",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Gourd"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 4,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 16,
+      "name": "White Rice (short-grain, sushi)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Carbohydrate"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 9,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 17,
+      "name": "Quinoa (uncooked)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Pseudo-cereal"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 7,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 18,
+      "name": "Rolled Oats",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Breakfast"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 3,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 19,
+      "name": "Almonds",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Nuts & Seeds",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 6,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 20,
+      "name": "Blueberries",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Berries"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 21,
+      "name": "Strawberries",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Berries"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 2,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 22,
+      "name": "Mushrooms (button)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Fungi"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 9,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 23,
+      "name": "Greek Yogurt (plain, low-fat)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy",
+        "High Protein"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 1,
+      "micronutrientsId": 2
+    },
+    {
+      "id": 24,
+      "name": "Spinach (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Leafy Greens"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 25,
+      "name": "Tomato (ripe)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Nightshade"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 26,
+      "name": "Olive Oil (extra-virgin)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fat",
+        "Oil"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 27,
+      "name": "Tofu (firm)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Soy",
+        "High Protein",
+        "Vegetarian"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 6,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 28,
+      "name": "Shrimp (raw)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Seafood",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 1,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 29,
+      "name": "Beef Sirloin (lean)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Beef",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 6,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 30,
+      "name": "Sweet Potato",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Root"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 2,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 31,
+      "name": "Kale",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Leafy Greens"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 32,
+      "name": "Chickpeas (cooked)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Legumes",
+        "High Protein"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 7,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 33,
+      "name": "Lentils (cooked)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Legumes",
+        "High Protein"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 7,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 34,
+      "name": "Cottage Cheese (low-fat)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy",
+        "High Protein"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 1,
+      "micronutrientsId": 1
+    },
+    {
+      "id": 35,
+      "name": "Peanut Butter (natural)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Nuts & Seeds",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 36,
+      "name": "Honey",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Sweetener"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 8,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 37,
+      "name": "Lime (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Citrus"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 38,
+      "name": "Basil (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Herbs",
+        "Aromatics"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 39,
+      "name": "Cilantro (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Herbs",
+        "Aromatics"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 40,
+      "name": "Soy Sauce (low sodium)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 41,
+      "name": "Rice Vinegar",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 42,
+      "name": "Nori (seaweed)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Seafood",
+        "Sea Vegetables"
+      ],
+      "quantity": "10 g",
+      "macronutrientsId": 3,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 43,
+      "name": "Edamame (shelled)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Legumes",
+        "High Protein"
+      ],
+      "quantity": "150 g",
+      "macronutrientsId": 7,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 44,
+      "name": "Whole Wheat Pasta (dry)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Carbohydrate"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 9,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 45,
+      "name": "Turkey Breast (roasted)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Poultry",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 1,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 46,
+      "name": "Red Cabbage",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Cruciferous"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 47,
+      "name": "Carrot",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Root"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 48,
+      "name": "Apple",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Pome"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 5,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 49,
+      "name": "Pear",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Pome"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 5,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 50,
+      "name": "Orange",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Citrus"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 51,
+      "name": "Pumpkin Seeds",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Nuts & Seeds",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 52,
+      "name": "Feta Cheese",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 6,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 53,
+      "name": "Hummus",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Legumes",
+        "Condiment"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 8,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 54,
+      "name": "Mushrooms (cremini)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Fungi"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 9,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 55,
+      "name": "Kefir (plain)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy",
+        "Drink"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 1
+    },
+    {
+      "id": 56,
+      "name": "Pineapple",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Tropical"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 57,
+      "name": "Mango",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Tropical"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 58,
+      "name": "Cherry Tomatoes",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Nightshade"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 59,
+      "name": "Sesame Oil",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fat",
+        "Oil"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 60,
+      "name": "Sesame Seeds",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Nuts & Seeds"
+      ],
+      "quantity": "1/4 cup",
+      "macronutrientsId": 6,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 61,
+      "name": "Arugula",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Leafy Greens"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 1,
+      "micronutrientsId": 2
+    },
+    {
+      "id": 62,
+      "name": "Beetroot",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Root"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 2,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 63,
+      "name": "Goat Cheese",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 64,
+      "name": "Sardines (canned in water)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Seafood",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 4,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 65,
+      "name": "Tuna (canned in water)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Seafood",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 5,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 66,
+      "name": "Cauliflower",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Cruciferous"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 6,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 67,
+      "name": "Asparagus",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Stem"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 7,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 68,
+      "name": "Green Peas (frozen)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Legumes",
+        "Vegetables"
+      ],
+      "quantity": "150 g",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 69,
+      "name": "Chia Seeds",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Nuts & Seeds",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 10
+    },
+    {
+      "id": 70,
+      "name": "Flaxseed (ground)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Nuts & Seeds",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 10,
+      "micronutrientsId": 1
+    },
+    {
+      "id": 71,
+      "name": "Raspberries",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Berries"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 1,
+      "micronutrientsId": 2
+    },
+    {
+      "id": 72,
+      "name": "Blackberries",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Berries"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 2,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 73,
+      "name": "Red Grapes",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Berries"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 74,
+      "name": "Watermelon",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Melon"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 4,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 75,
+      "name": "Coconut Milk (light)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Drinks",
+        "Dairy Alternatives"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 5,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 76,
+      "name": "Tahini (sesame paste)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Nuts & Seeds"
+      ],
+      "quantity": "1/4 cup",
+      "macronutrientsId": 6,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 77,
+      "name": "Kimchi",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fermented",
+        "Vegetables"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 7,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 78,
+      "name": "Sourdough Bread",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Bakery"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 79,
+      "name": "Ricotta Cheese (part-skim)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy",
+        "High Protein"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 9,
+      "micronutrientsId": 10
+    },
+    {
+      "id": 80,
+      "name": "Parmesan Cheese (grated)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 10,
+      "micronutrientsId": 1
+    },
+    {
+      "id": 81,
+      "name": "Couscous (whole wheat)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Carbohydrate"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 7,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 82,
+      "name": "Tempeh (fermented soybeans)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Soy",
+        "High Protein",
+        "Vegetarian"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 6,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 83,
+      "name": "Seaweed (wakame, dried)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Seafood",
+        "Sea Vegetables"
+      ],
+      "quantity": "10 g",
+      "macronutrientsId": 3,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 84,
+      "name": "Lamb (lean, grilled)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Meat",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 4,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 85,
+      "name": "Bok Choy (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Leafy Greens"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 86,
+      "name": "Udon Noodles (cooked)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Asian"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 8,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 87,
+      "name": "Mozzarella Cheese (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy",
+        "High Protein"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 5,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 88,
+      "name": "Sun-Dried Tomatoes",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Condiment"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 7,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 89,
+      "name": "Bulgur Wheat",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Carbohydrate"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 2,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 90,
+      "name": "Cashews (roasted, unsalted)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Nuts & Seeds",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 91,
+      "name": "Miso Paste",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Fermented"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 92,
+      "name": "Green Curry Paste",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Spices"
+      ],
+      "quantity": "1 tsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 93,
+      "name": "Bamboo Shoots (sliced, cooked)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Asian"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 4,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 94,
+      "name": "Duck Breast (grilled)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Poultry",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 4,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 95,
+      "name": "Eggplant (roasted)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Nightshade"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 96,
+      "name": "Bulgogi Beef (marinated)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Beef",
+        "Asian"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 5,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 97,
+      "name": "Paneer (Indian Cheese)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy",
+        "High Protein",
+        "Indian"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 6,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 98,
+      "name": "Coconut Water (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Drinks",
+        "Hydration"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 3,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 99,
+      "name": "Kimchi Paste",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Fermented"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 100,
+      "name": "Cranberries (dried, unsweetened)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Berries"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 2,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 101,
+      "name": "Soba Noodles (buckwheat)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Asian"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 8,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 102,
+      "name": "Gochujang (Korean chili paste)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Fermented",
+        "Spices"
+      ],
+      "quantity": "1 tsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 103,
+      "name": "Artichoke Hearts (canned, drained)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Mediterranean"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 104,
+      "name": "Capers (in brine)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Mediterranean"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 105,
+      "name": "Smoked Salmon",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Seafood",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 4,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 106,
+      "name": "Prosciutto",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Meat",
+        "Cured"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 6,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 107,
+      "name": "Romaine Lettuce",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Leafy Greens"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 1,
+      "micronutrientsId": 2
+    },
+    {
+      "id": 108,
+      "name": "Israeli Couscous (pearl, dry)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Carbohydrate"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 7,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 109,
+      "name": "Tofu (silken)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Soy",
+        "Vegetarian",
+        "High Protein"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 6,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 110,
+      "name": "Pickled Ginger",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Asian"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 111,
+      "name": "Wasabi Paste",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Spices",
+        "Asian"
+      ],
+      "quantity": "1 tsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 112,
+      "name": "Mirin (sweet cooking rice wine)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Asian"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 113,
+      "name": "Gnocchi (potato, dry)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Pasta"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 9,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 114,
+      "name": "Pesto (basil)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Mediterranean"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 115,
+      "name": "Polenta (cornmeal, dry)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Carbohydrate"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 2,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 116,
+      "name": "Blue Cheese (Gorgonzola)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 6,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 117,
+      "name": "Brussels Sprouts",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Cruciferous"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 118,
+      "name": "Mackerel (fillet)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Seafood",
+        "High Protein",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 4,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 119,
+      "name": "Naan Bread (whole wheat)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Bakery",
+        "Indian"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 9,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 120,
+      "name": "Pomegranate Seeds (arils)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fruits",
+        "Berries"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 121,
+      "name": "Bulgur Wheat (dry)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Mediterranean"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 7,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 122,
+      "name": "Harissa Paste",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Spices",
+        "North African"
+      ],
+      "quantity": "1 tsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 123,
+      "name": "Kalamata Olives (pitted)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Mediterranean",
+        "Healthy Fat"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 9,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 124,
+      "name": "Sun-dried Tomatoes (dry-packed)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Mediterranean"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 8,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 125,
+      "name": "Arborio Rice (dry, risotto)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Carbohydrate",
+        "Italian"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 9,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 126,
+      "name": "Mascarpone Cheese",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 6,
+      "micronutrientsId": 4
+    },
+    {
+      "id": 127,
+      "name": "Tempeh",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Soy",
+        "Fermented",
+        "High Protein",
+        "Vegetarian"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 6,
+      "micronutrientsId": 7
+    },
+    {
+      "id": 128,
+      "name": "Rice Paper (Bánh tráng)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Asian",
+        "Wraps"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 9,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 129,
+      "name": "Udon Noodles (dry)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Asian",
+        "Pasta"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 9,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 130,
+      "name": "Shiitake Mushrooms (fresh)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Fungi",
+        "Asian"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 131,
+      "name": "Chickpeas (canned, drained)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Legumes",
+        "High Protein"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 7,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 132,
+      "name": "Baby Spinach",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Leafy Greens"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 133,
+      "name": "Farro (emmer, dry)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Grains",
+        "Mediterranean"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 7,
+      "micronutrientsId": 3
+    },
+    {
+      "id": 134,
+      "name": "Roasted Red Peppers (jarred)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Mediterranean"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 8,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 135,
+      "name": "Spring Onion (Scallion)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Allium"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "id": 136,
+      "name": "Coconut Aminos",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Condiment",
+        "Asian"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 9
+    },
+    {
+      "id": 137,
+      "name": "Anchovies (in olive oil)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Seafood",
+        "High Protein",
+        "Condiment"
+      ],
+      "quantity": "100 g",
+      "macronutrientsId": 4,
+      "micronutrientsId": 5
+    },
+    {
+      "id": 138,
+      "name": "Tzatziki",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Dairy",
+        "Mediterranean",
+        "Condiment"
+      ],
+      "quantity": "1/2 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 1
+    },
+    {
+      "id": 139,
+      "name": "Kimchi Brine (juice)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Fermented",
+        "Condiment",
+        "Asian"
+      ],
+      "quantity": "1 tbsp",
+      "macronutrientsId": 8,
+      "micronutrientsId": 8
+    },
+    {
+      "id": 140,
+      "name": "Baby Corn (canned, drained)",
+      "source": "USDA FoodData Central",
+      "category": [
+        "Vegetables",
+        "Asian"
+      ],
+      "quantity": "1 cup",
+      "macronutrientsId": 3,
+      "micronutrientsId": 6
+    },
+    {
+      "name": "nabo ni te",
+      "source": "TUN DTABHD",
+      "category": [
+        "tree na te"
+      ],
+      "quantity": "200 g",
+      "macronutrientsId": 11,
+      "micronutrientsId": 11,
+      "id": 141
+    },
+    {
+      "name": "test",
+      "source": "regrg",
+      "category": [
+        "rgẻg"
+      ],
+      "quantity": "245",
+      "macronutrientsId": 12,
+      "micronutrientsId": 12,
+      "id": 142
+    }
+  ],
+  "macronutrients": [
+    {
+      "id": 1,
+      "energy": 165,
+      "carbohydrates": 0,
+      "fat": 3.6,
+      "protein": 31
+    },
+    {
+      "id": 2,
+      "energy": 170,
+      "carbohydrates": 36,
+      "fat": 1.4,
+      "protein": 4
+    },
+    {
+      "id": 3,
+      "energy": 35,
+      "carbohydrates": 7,
+      "fat": 0.4,
+      "protein": 3
+    },
+    {
+      "id": 4,
+      "energy": 208,
+      "carbohydrates": 0,
+      "fat": 13,
+      "protein": 20
+    },
+    {
+      "id": 5,
+      "energy": 89,
+      "carbohydrates": 23,
+      "fat": 0.3,
+      "protein": 1.1
+    },
+    {
+      "id": 6,
+      "energy": 250,
+      "carbohydrates": 0,
+      "fat": 15,
+      "protein": 26
+    },
+    {
+      "id": 7,
+      "energy": 310,
+      "carbohydrates": 58,
+      "fat": 6,
+      "protein": 10
+    },
+    {
+      "id": 8,
+      "energy": 90,
+      "carbohydrates": 10,
+      "fat": 4,
+      "protein": 3
+    },
+    {
+      "id": 9,
+      "energy": 420,
+      "carbohydrates": 62,
+      "fat": 12,
+      "protein": 10
+    },
+    {
+      "id": 10,
+      "energy": 280,
+      "carbohydrates": 4,
+      "fat": 18,
+      "protein": 24
+    },
+    {
+      "energy": 213,
+      "carbohydrates": 3,
+      "fat": 12.4,
+      "protein": 12,
+      "id": 11
+    },
+    {
+      "energy": 3,
+      "carbohydrates": 4,
+      "fat": 4,
+      "protein": 5,
+      "id": 12
+    }
+  ],
+  "micronutrients": [
+    {
+      "id": 1,
+      "cholesterol": 30,
+      "fiber": 4.5,
+      "sodium": 120,
+      "water": 75,
+      "vitaminA": 500,
+      "vitaminB6": 0.8,
+      "vitaminB12": 1.2,
+      "vitaminC": 35,
+      "vitaminD": 10,
+      "vitaminE": 5.5,
+      "vitaminK": 60,
+      "calcium": 250,
+      "iron": 3.5,
+      "magnesium": 70,
+      "phosphorus": 200,
+      "potassium": 400,
+      "zinc": 2.2,
+      "copper": 0.3,
+      "selenium": 25,
+      "thiamin": 0.5,
+      "riboflavin": 0.7,
+      "niacin": 8,
+      "pantothenicAcid": 2.5,
+      "starch": 8.9,
+      "folateTotal": 150,
+      "chloride": 350,
+      "lactose": 4.5,
+      "alcohol": 0.4,
+      "caffeine": null,
+      "sugars": null,
+      "fluoride": 12.2,
+      "manganese": 0.3,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": 123,
+      "fattyAcidsTotalSaturated": 0,
+      "fattyAcidsTotalMonounsaturated": null,
+      "fattyAcidsTotalPolyunsaturated": null
+    },
+    {
+      "id": 2,
+      "cholesterol": 20,
+      "fiber": 5.2,
+      "sodium": 90,
+      "water": 78,
+      "vitaminA": 480,
+      "vitaminB6": 0.9,
+      "vitaminB12": 1.1,
+      "vitaminC": 40,
+      "vitaminD": 8,
+      "vitaminE": 6.1,
+      "vitaminK": 55,
+      "calcium": 230,
+      "iron": 3.1,
+      "magnesium": 68,
+      "phosphorus": 190,
+      "potassium": 410,
+      "zinc": 2,
+      "copper": 0.25,
+      "selenium": 28,
+      "thiamin": 0.52,
+      "riboflavin": 0.8,
+      "niacin": 7.5,
+      "pantothenicAcid": 2.2,
+      "starch": 7.5,
+      "folateTotal": 145,
+      "chloride": 330,
+      "lactose": 4,
+      "alcohol": 0.3,
+      "caffeine": null,
+      "sugars": 3.5,
+      "fluoride": 10.8,
+      "manganese": 0.32,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": 100,
+      "fattyAcidsTotalSaturated": 0.2,
+      "fattyAcidsTotalMonounsaturated": 0.1,
+      "fattyAcidsTotalPolyunsaturated": null
+    },
+    {
+      "id": 3,
+      "cholesterol": 15,
+      "fiber": 6,
+      "sodium": 110,
+      "water": 80,
+      "vitaminA": 520,
+      "vitaminB6": 0.7,
+      "vitaminB12": 1.4,
+      "vitaminC": 30,
+      "vitaminD": 9,
+      "vitaminE": 4.8,
+      "vitaminK": 58,
+      "calcium": 240,
+      "iron": 3,
+      "magnesium": 72,
+      "phosphorus": 210,
+      "potassium": 420,
+      "zinc": 2.4,
+      "copper": 0.27,
+      "selenium": 26,
+      "thiamin": 0.55,
+      "riboflavin": 0.76,
+      "niacin": 8.5,
+      "pantothenicAcid": 2.4,
+      "starch": 3.4,
+      "folateTotal": 160,
+      "chloride": 340,
+      "lactose": 4.8,
+      "alcohol": 0.2,
+      "caffeine": null,
+      "sugars": null,
+      "fluoride": 11.5,
+      "manganese": 0.35,
+      "folicAcid": 123,
+      "fattyAcidsTotalTrans": 95,
+      "fattyAcidsTotalSaturated": 0.1,
+      "fattyAcidsTotalMonounsaturated": 0.05,
+      "fattyAcidsTotalPolyunsaturated": null
+    },
+    {
+      "id": 4,
+      "cholesterol": 40,
+      "fiber": 3.8,
+      "sodium": 130,
+      "water": 73,
+      "vitaminA": 490,
+      "vitaminB6": 0.85,
+      "vitaminB12": 1,
+      "vitaminC": 33,
+      "vitaminD": 11,
+      "vitaminE": 5.9,
+      "vitaminK": 62,
+      "calcium": 260,
+      "iron": 3.4,
+      "magnesium": 74,
+      "phosphorus": 205,
+      "potassium": 395,
+      "zinc": 2.1,
+      "copper": 0.31,
+      "selenium": 24,
+      "thiamin": 0.48,
+      "riboflavin": 0.74,
+      "niacin": 8.2,
+      "pantothenicAcid": 2.3,
+      "starch": 8.9,
+      "folateTotal": 148,
+      "chloride": 345,
+      "lactose": 4.6,
+      "alcohol": 0.5,
+      "caffeine": null,
+      "sugars": null,
+      "fluoride": 12,
+      "manganese": 0.29,
+      "folicAcid": 12.45,
+      "fattyAcidsTotalTrans": 110,
+      "fattyAcidsTotalSaturated": 0.15,
+      "fattyAcidsTotalMonounsaturated": 0.05,
+      "fattyAcidsTotalPolyunsaturated": 0.1
+    },
+    {
+      "id": 5,
+      "cholesterol": 28,
+      "fiber": 4.2,
+      "sodium": 125,
+      "water": 77,
+      "vitaminA": 530,
+      "vitaminB6": 0.82,
+      "vitaminB12": 1.3,
+      "vitaminC": 37,
+      "vitaminD": 9.5,
+      "vitaminE": 6,
+      "vitaminK": 57,
+      "calcium": 255,
+      "iron": 3.2,
+      "magnesium": 69,
+      "phosphorus": 195,
+      "potassium": 405,
+      "zinc": 2.3,
+      "copper": 0.28,
+      "selenium": 27,
+      "thiamin": 0.51,
+      "riboflavin": 0.78,
+      "niacin": 7.8,
+      "pantothenicAcid": 2.1,
+      "starch": 8.9,
+      "folateTotal": 140,
+      "chloride": 325,
+      "lactose": 4.3,
+      "alcohol": 0.4,
+      "caffeine": null,
+      "sugars": 3.8,
+      "fluoride": 10.5,
+      "manganese": 0.27,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": 102,
+      "fattyAcidsTotalSaturated": 0.05,
+      "fattyAcidsTotalMonounsaturated": null,
+      "fattyAcidsTotalPolyunsaturated": null
+    },
+    {
+      "id": 6,
+      "cholesterol": 25,
+      "fiber": 5.5,
+      "sodium": 100,
+      "water": 76,
+      "vitaminA": 505,
+      "vitaminB6": 0.86,
+      "vitaminB12": 1.15,
+      "vitaminC": 32,
+      "vitaminD": 9,
+      "vitaminE": 5.2,
+      "vitaminK": 63,
+      "calcium": 270,
+      "iron": 3.6,
+      "magnesium": 75,
+      "phosphorus": 215,
+      "potassium": 420,
+      "zinc": 2.5,
+      "copper": 0.29,
+      "selenium": 26,
+      "thiamin": 0.53,
+      "riboflavin": 0.79,
+      "niacin": 8.7,
+      "pantothenicAcid": 2.6,
+      "starch": 8.9,
+      "folateTotal": 155,
+      "chloride": 340,
+      "lactose": 4.7,
+      "alcohol": 0.3,
+      "caffeine": null,
+      "sugars": 3.9,
+      "fluoride": 11.9,
+      "manganese": 0.31,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": 115,
+      "fattyAcidsTotalSaturated": 0.18,
+      "fattyAcidsTotalMonounsaturated": null,
+      "fattyAcidsTotalPolyunsaturated": 0.1
+    },
+    {
+      "id": 7,
+      "cholesterol": 35,
+      "fiber": 4,
+      "sodium": 140,
+      "water": 74,
+      "vitaminA": 520,
+      "vitaminB6": 0.78,
+      "vitaminB12": 1,
+      "vitaminC": 36,
+      "vitaminD": 10,
+      "vitaminE": 5.7,
+      "vitaminK": 59,
+      "calcium": 265,
+      "iron": 3.8,
+      "magnesium": 73,
+      "phosphorus": 208,
+      "potassium": 410,
+      "zinc": 2.1,
+      "copper": 0.32,
+      "selenium": 29,
+      "thiamin": 0.47,
+      "riboflavin": 0.73,
+      "niacin": 7.9,
+      "pantothenicAcid": 2.3,
+      "starch": 8.9,
+      "folateTotal": 150,
+      "chloride": 355,
+      "lactose": 4.2,
+      "alcohol": 0.6,
+      "caffeine": null,
+      "sugars": null,
+      "fluoride": 12.3,
+      "manganese": 0.28,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": 120,
+      "fattyAcidsTotalSaturated": 0.12,
+      "fattyAcidsTotalMonounsaturated": 0.08,
+      "fattyAcidsTotalPolyunsaturated": 0.05
+    },
+    {
+      "id": 8,
+      "cholesterol": 22,
+      "fiber": 5,
+      "sodium": 115,
+      "water": 79,
+      "vitaminA": 510,
+      "vitaminB6": 0.88,
+      "vitaminB12": 1.25,
+      "vitaminC": 39,
+      "vitaminD": 9.8,
+      "vitaminE": 5.3,
+      "vitaminK": 61,
+      "calcium": 235,
+      "iron": 3.3,
+      "magnesium": 71,
+      "phosphorus": 202,
+      "potassium": 405,
+      "zinc": 2,
+      "copper": 0.26,
+      "selenium": 27,
+      "thiamin": 0.5,
+      "riboflavin": 0.77,
+      "niacin": 8.4,
+      "pantothenicAcid": 2.5,
+      "starch": 9,
+      "folateTotal": 147,
+      "chloride": 335,
+      "lactose": 4.4,
+      "alcohol": 0.4,
+      "caffeine": null,
+      "sugars": null,
+      "fluoride": 11,
+      "manganese": 0.33,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": 118,
+      "fattyAcidsTotalSaturated": 0.2,
+      "fattyAcidsTotalMonounsaturated": null,
+      "fattyAcidsTotalPolyunsaturated": 0.1
+    },
+    {
+      "id": 9,
+      "cholesterol": 18,
+      "fiber": 6.3,
+      "sodium": 85,
+      "water": 82,
+      "vitaminA": 540,
+      "vitaminB6": 0.9,
+      "vitaminB12": 1.35,
+      "vitaminC": 42,
+      "vitaminD": 8.5,
+      "vitaminE": 6.3,
+      "vitaminK": 66,
+      "calcium": 245,
+      "iron": 3.7,
+      "magnesium": 78,
+      "phosphorus": 218,
+      "potassium": 430,
+      "zinc": 2.6,
+      "copper": 0.35,
+      "selenium": 30,
+      "thiamin": 0.6,
+      "riboflavin": 0.85,
+      "niacin": 9,
+      "pantothenicAcid": 2.7,
+      "starch": 10.3,
+      "folateTotal": 162,
+      "chloride": 360,
+      "lactose": 4.9,
+      "alcohol": 0.2,
+      "caffeine": null,
+      "sugars": null,
+      "fluoride": 12.6,
+      "manganese": 0.37,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": 108,
+      "fattyAcidsTotalSaturated": 0.22,
+      "fattyAcidsTotalMonounsaturated": 0.1,
+      "fattyAcidsTotalPolyunsaturated": null
+    },
+    {
+      "id": 10,
+      "cholesterol": 27,
+      "fiber": 4.8,
+      "sodium": 118,
+      "water": 77,
+      "vitaminA": 515,
+      "vitaminB6": 0.81,
+      "vitaminB12": 1.18,
+      "vitaminC": 38,
+      "vitaminD": 9.2,
+      "vitaminE": 5.6,
+      "vitaminK": 64,
+      "calcium": 260,
+      "iron": 3.9,
+      "magnesium": 76,
+      "phosphorus": 212,
+      "potassium": 415,
+      "zinc": 2.3,
+      "copper": 0.33,
+      "selenium": 28,
+      "thiamin": 0.57,
+      "riboflavin": 0.82,
+      "niacin": 8.3,
+      "pantothenicAcid": 2.4,
+      "starch": 9,
+      "folateTotal": 158,
+      "chloride": 350,
+      "lactose": 4.6,
+      "alcohol": 0.3,
+      "caffeine": null,
+      "sugars": 3.7,
+      "fluoride": 11.8,
+      "manganese": 0.3,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": 112,
+      "fattyAcidsTotalSaturated": 0.17,
+      "fattyAcidsTotalMonounsaturated": null,
+      "fattyAcidsTotalPolyunsaturated": 0.08
+    },
+    {
+      "cholesterol": null,
+      "fiber": null,
+      "sodium": null,
+      "water": null,
+      "vitaminA": null,
+      "vitaminB6": null,
+      "vitaminB12": null,
+      "vitaminC": null,
+      "vitaminD": null,
+      "vitaminE": null,
+      "vitaminK": null,
+      "starch": null,
+      "lactose": null,
+      "alcohol": null,
+      "caffeine": null,
+      "sugars": null,
+      "calcium": null,
+      "iron": null,
+      "magnesium": null,
+      "phosphorus": null,
+      "potassium": null,
+      "zinc": null,
+      "copper": null,
+      "fluoride": null,
+      "manganese": null,
+      "selenium": 2,
+      "thiamin": null,
+      "riboflavin": null,
+      "niacin": null,
+      "pantothenicAcid": null,
+      "folateTotal": null,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": null,
+      "fattyAcidsTotalSaturated": null,
+      "fattyAcidsTotalMonounsaturated": null,
+      "fattyAcidsTotalPolyunsaturated": null,
+      "chloride": null,
+      "id": 11
+    },
+    {
+      "cholesterol": 34,
+      "fiber": 3,
+      "sodium": 4,
+      "water": null,
+      "vitaminA": 6,
+      "vitaminB6": null,
+      "vitaminB12": null,
+      "vitaminC": null,
+      "vitaminD": null,
+      "vitaminE": null,
+      "vitaminK": null,
+      "starch": 7,
+      "lactose": 7,
+      "alcohol": null,
+      "caffeine": null,
+      "sugars": null,
+      "calcium": null,
+      "iron": null,
+      "magnesium": null,
+      "phosphorus": null,
+      "potassium": null,
+      "zinc": null,
+      "copper": null,
+      "fluoride": null,
+      "manganese": null,
+      "selenium": null,
+      "thiamin": null,
+      "riboflavin": null,
+      "niacin": null,
+      "pantothenicAcid": null,
+      "folateTotal": null,
+      "folicAcid": null,
+      "fattyAcidsTotalTrans": null,
+      "fattyAcidsTotalSaturated": null,
+      "fattyAcidsTotalMonounsaturated": null,
+      "fattyAcidsTotalPolyunsaturated": null,
+      "chloride": null,
+      "id": 12
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "coverSrc": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=764",
+      "name": "Grilled Chicken Breast",
+      "description": "Juicy grilled chicken breast with a light honey note and black pepper; high in protein and low in fat.",
+      "author": "Nguyễn An",
+      "totalTime": "01:00",
+      "preparationTime": "00:20",
+      "finalWeight": "300 grams",
+      "portions": 2,
+      "ingredients": [
+        1,
+        3,
+        2
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Pat chicken dry and marinate briefly; preheat grill to medium-high."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Grill until cooked through, resting before slicing; plate with vegetables."
+        }
+      ],
+      "category": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 2,
+      "coverSrc": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1974",
+      "name": "Brown Rice Risotto",
+      "description": "Creamy-style brown rice cooked slowly for a hearty, fiber-rich main.",
+      "author": "Trần Bình",
+      "totalTime": "00:30",
+      "preparationTime": "00:15",
+      "finalWeight": "250 grams",
+      "portions": 1,
+      "ingredients": [
+        5,
+        22,
+        2
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Toast the rice briefly, then add warm liquid in stages while stirring."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Simmer until tender and creamy; finish with vegetables or toppings."
+        }
+      ],
+      "category": [
+        4,
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "coverSrc": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=780",
+      "name": "Steamed Broccoli with Lemon & Garlic",
+      "description": "Light, tender broccoli finished with a hint of lemon and garlic; high in fiber.",
+      "author": "Lê Cường",
+      "totalTime": "00:45",
+      "preparationTime": "00:15",
+      "finalWeight": "400 grams",
+      "portions": 2,
+      "ingredients": [
+        2,
+        8,
+        3
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Steam broccoli until bright green and just tender."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Toss with a little lemon and garlic; serve warm."
+        }
+      ],
+      "category": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "coverSrc": "https://images.unsplash.com/photo-1432139509613-5c4255815697?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Grilled Salmon with Lemon Butter",
+      "description": "Crispy-edged salmon fillet finished with a simple lemon-butter glaze; rich in omega-3.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:30",
+      "preparationTime": "00:30",
+      "finalWeight": "350 ml",
+      "portions": 1,
+      "ingredients": [
+        4,
+        3,
+        7
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Season salmon and sear or grill skin-side down until nearly done."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Spoon over melted butter and lemon; rest briefly before serving."
+        }
+      ],
+      "category": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 5,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1669150849080-241bf2ec9b4a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Banana Brûlée",
+      "description": "Caramelized banana dessert with a crackly sugar top; simple and satisfying.",
+      "author": "Đoàn Hạnh",
+      "totalTime": "01:00",
+      "preparationTime": "01:15",
+      "finalWeight": "200 grams",
+      "portions": 2,
+      "ingredients": [
+        6
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Slice banana into a shallow dish and sprinkle evenly with sugar."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Torch or broil until the sugar caramelizes; cool slightly before serving."
+        }
+      ],
+      "category": [
+        5
+      ]
+    },
+    {
+      "id": 6,
+      "coverSrc": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+      "name": "Avocado Toast with Poached Egg",
+      "description": "Creamy avocado on toast topped with a runny poached egg, perfect for breakfast.",
+      "author": "Anna Lee",
+      "totalTime": "00:45",
+      "preparationTime": "01:00",
+      "finalWeight": "200 grams",
+      "portions": 1,
+      "ingredients": [
+        9,
+        10,
+        11
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Poach the egg until the white is set and the yolk is runny."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Toast the bread, spread mashed avocado, top with the poached egg."
+        }
+      ],
+      "category": [
+        3
+      ]
+    },
+    {
+      "id": 7,
+      "coverSrc": "https://images.unsplash.com/photo-1551218808-94e220e084d2",
+      "name": "Grilled Vegetable Skewers",
+      "description": "Mixed grilled vegetables on skewers—colorful, smoky, and healthy.",
+      "author": "Carlos Ramirez",
+      "totalTime": "01:30",
+      "preparationTime": "00:15",
+      "finalWeight": "250 grams",
+      "portions": 2,
+      "ingredients": [
+        12,
+        13,
+        14,
+        22
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Cut vegetables to uniform sizes and thread onto skewers."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Grill skewers on medium heat until vegetables are tender and charred."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 8,
+      "coverSrc": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "name": "Salmon Poke Bowl",
+      "description": "Fresh salmon poke bowl with rice, veggies, and flavorful toppings.",
+      "author": "Hana Park",
+      "totalTime": "01:00",
+      "preparationTime": "00:15",
+      "finalWeight": "300 grams",
+      "portions": 1,
+      "ingredients": [
+        4,
+        16,
+        15
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Cube salmon and marinate briefly."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Assemble bowl: rice base, salmon, vegetables, and toppings."
+        }
+      ],
+      "category": [
+        4
+      ]
+    },
+    {
+      "id": 9,
+      "coverSrc": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=722",
+      "name": "Quinoa & Roasted Veggie Salad",
+      "description": "Warm quinoa mixed with roasted vegetables and fresh greens.",
+      "author": "Leah Smith",
+      "totalTime": "00:45",
+      "preparationTime": "00:30",
+      "finalWeight": "280 grams",
+      "portions": 2,
+      "ingredients": [
+        7,
+        2,
+        12
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Cook quinoa until fluffy."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Roast vegetables and mix into the quinoa; serve warm."
+        }
+      ],
+      "category": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 10,
+      "coverSrc": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=780",
+      "name": "Fruit & Nut Oatmeal Bowl",
+      "description": "Hearty oatmeal topped with mixed fruits and nuts for a nutritious start.",
+      "author": "Mia Johnson",
+      "totalTime": "00:15",
+      "preparationTime": "00:15",
+      "finalWeight": "220 grams",
+      "portions": 1,
+      "ingredients": [
+        18,
+        6,
+        19,
+        20,
+        21
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Cook oats with water or milk until soft."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Top with fresh fruits and nuts before serving."
+        }
+      ],
+      "category": [
+        6,
+        5
+      ]
+    },
+    {
+      "id": 11,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1676234917179-a7b1ca98c984?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Greek Yogurt Parfait with Blueberries & Almonds",
+      "description": "Parfait sữa chua Hy Lạp, việt quất và hạnh nhân — giàu đạm, no lâu.",
+      "author": "Mai Linh",
+      "totalTime": "00:10",
+      "preparationTime": "00:10",
+      "finalWeight": "220 grams",
+      "portions": 1,
+      "ingredients": [
+        23,
+        20,
+        19
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn sữa chua và việt quất theo lớp."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Rắc hạnh nhân ngay trước khi dùng."
+        }
+      ],
+      "category": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 12,
+      "coverSrc": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "name": "Shrimp & Broccoli Stir-Fry",
+      "description": "Tôm xào bông cải xanh nhanh gọn, vị xì dầu và mè.",
+      "author": "Hana Park",
+      "totalTime": "00:20",
+      "preparationTime": "00:10",
+      "finalWeight": "300 grams",
+      "portions": 2,
+      "ingredients": [
+        28,
+        2,
+        59,
+        40
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Xào nhanh tôm với ít dầu mè."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm bông cải và xì dầu; đảo chín giòn."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 13,
+      "coverSrc": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+      "name": "Tofu Teriyaki Bowl",
+      "description": "Bát cơm đậu hũ sốt teriyaki, kèm rau củ.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:35",
+      "preparationTime": "00:15",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        27,
+        16,
+        12,
+        40
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo đậu hũ cho săn mặt."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Rưới xì dầu teriyaki, dùng kèm cơm và ớt chuông."
+        }
+      ],
+      "category": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 14,
+      "coverSrc": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "name": "Beef & Broccoli with Brown Rice",
+      "description": "Bò xào bông cải xanh ăn kèm gạo lứt — no mà nhẹ.",
+      "author": "Trần Bình",
+      "totalTime": "00:45",
+      "preparationTime": "00:15",
+      "finalWeight": "380 grams",
+      "portions": 2,
+      "ingredients": [
+        29,
+        2,
+        5
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Ướp thịt bò; xào chín tái."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm bông cải; dùng với cơm gạo lứt."
+        }
+      ],
+      "category": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 15,
+      "coverSrc": "https://images.unsplash.com/photo-1574484284002-952d92456975?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Avocado Kale Salad with Lemon",
+      "description": "Salad cải xoăn và bơ, vị chanh tươi — giàu chất xơ.",
+      "author": "Lê Cường",
+      "totalTime": "00:15",
+      "preparationTime": "00:15",
+      "finalWeight": "280 grams",
+      "portions": 2,
+      "ingredients": [
+        9,
+        31,
+        3,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Mát-xa cải xoăn với chút dầu và muối."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn bơ, chanh và cà chua."
+        }
+      ],
+      "category": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 16,
+      "coverSrc": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Chickpea Quinoa Power Bowl",
+      "description": "Bowl diêm mạch + đậu gà, nhiều đạm thực vật.",
+      "author": "Nguyễn An",
+      "totalTime": "00:30",
+      "preparationTime": "00:15",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        32,
+        17,
+        12,
+        15
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu chín diêm mạch."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn đậu gà và rau củ, nêm dịu."
+        }
+      ],
+      "category": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 17,
+      "coverSrc": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a",
+      "name": "Lentil & Mushroom Soup",
+      "description": "Súp đậu lăng và nấm — ấm, đậm vị, thuần chay.",
+      "author": "Leah Smith",
+      "totalTime": "00:40",
+      "preparationTime": "00:15",
+      "finalWeight": "400 grams",
+      "portions": 2,
+      "ingredients": [
+        33,
+        22,
+        14
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Hầm đậu lăng mềm."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm nấm và hành tím, nêm nhẹ."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 18,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1673809798703-6082a015f931?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Whole Wheat Pasta with Salmon & Spinach",
+      "description": "Mì nguyên cám với cá hồi và rau bina — cân bằng đạm, tinh bột, vi chất.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:35",
+      "preparationTime": "00:15",
+      "finalWeight": "350 grams",
+      "portions": 1,
+      "ingredients": [
+        44,
+        4,
+        24
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc mì nguyên cám vừa chín."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn cá hồi miếng và rau bina."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 19,
+      "coverSrc": "https://images.unsplash.com/photo-1542838132-92c53300491e",
+      "name": "Turkey Spinach Sandwich",
+      "description": "Bánh mì gà tây, rau bina, cà chua — bữa trưa nhẹ giàu đạm.",
+      "author": "Mia Johnson",
+      "totalTime": "00:15",
+      "preparationTime": "00:10",
+      "finalWeight": "230 grams",
+      "portions": 1,
+      "ingredients": [
+        45,
+        11,
+        25,
+        24
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nướng bánh mì."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Kẹp thịt gà tây, rau và cà chua."
+        }
+      ],
+      "category": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 20,
+      "coverSrc": "https://images.unsplash.com/photo-1505575967455-40e256f73376",
+      "name": "Sweet Potato & Egg Hash",
+      "description": "Khoai lang áp chảo với trứng — no mà sạch.",
+      "author": "Anna Lee",
+      "totalTime": "00:25",
+      "preparationTime": "00:10",
+      "finalWeight": "300 grams",
+      "portions": 1,
+      "ingredients": [
+        30,
+        10,
+        14
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo khoai lang hạt lựu."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm trứng ốp và hành tím."
+        }
+      ],
+      "category": [
+        3
+      ]
+    },
+    {
+      "id": 21,
+      "coverSrc": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      "name": "Edamame & Avocado Sushi Bowl",
+      "description": "Bowl sushi với đậu nành non, bơ và rong biển.",
+      "author": "Hana Park",
+      "totalTime": "00:25",
+      "preparationTime": "00:15",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        43,
+        9,
+        16,
+        42
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu cơm sushi."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Bày edamame, bơ và nori."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 22,
+      "coverSrc": "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+      "name": "Hummus & Veggie Toast",
+      "description": "Bánh mì phết hummus, thêm dưa leo và cà chua bi.",
+      "author": "Mai Linh",
+      "totalTime": "00:10",
+      "preparationTime": "00:10",
+      "finalWeight": "180 grams",
+      "portions": 1,
+      "ingredients": [
+        53,
+        11,
+        58,
+        15
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nướng ổ bánh mì."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Phết hummus, thêm rau củ."
+        }
+      ],
+      "category": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 23,
+      "coverSrc": "https://images.unsplash.com/photo-1485962398705-ef6a13c41e8f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Peanut Butter Banana Overnight Oats",
+      "description": "Yến mạch qua đêm với chuối và bơ đậu phộng.",
+      "author": "Đoàn Hạnh",
+      "totalTime": "00:05",
+      "preparationTime": "00:05",
+      "finalWeight": "260 grams",
+      "portions": 1,
+      "ingredients": [
+        18,
+        6,
+        35
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn yến mạch với sữa/nước."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm chuối và bơ đậu phộng; ủ lạnh qua đêm."
+        }
+      ],
+      "category": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 24,
+      "coverSrc": "https://images.unsplash.com/photo-1497534446932-c925b458314e",
+      "name": "Mango Pineapple Smoothie",
+      "description": "Sinh tố xoài dứa mát lạnh, có thể trộn sữa chua Hy Lạp.",
+      "author": "Mia Johnson",
+      "totalTime": "00:05",
+      "preparationTime": "00:05",
+      "finalWeight": "300 ml",
+      "portions": 1,
+      "ingredients": [
+        57,
+        56,
+        23
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Xay xoài, dứa và sữa chua đến mịn."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Rót ra ly và dùng ngay."
+        }
+      ],
+      "category": [
+        5
+      ]
+    },
+    {
+      "id": 25,
+      "coverSrc": "https://images.unsplash.com/photo-1544025162-d76694265947",
+      "name": "Lime-Cilantro Grilled Shrimp Salad",
+      "description": "Salad tôm nướng sốt chanh và ngò, nhiều rau giòn.",
+      "author": "Anna Lee",
+      "totalTime": "00:25",
+      "preparationTime": "00:15",
+      "finalWeight": "280 grams",
+      "portions": 2,
+      "ingredients": [
+        28,
+        37,
+        39,
+        12,
+        15
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Ướp tôm với chanh và ngò, nướng nhanh."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn cùng ớt chuông và dưa leo."
+        }
+      ],
+      "category": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 26,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1672242676660-923c3bd446d7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Spinach & Feta Omelette",
+      "description": "Ốp lết rau bina và phô mai feta — sáng nhanh gọn.",
+      "author": "Nguyễn An",
+      "totalTime": "00:12",
+      "preparationTime": "00:08",
+      "finalWeight": "220 grams",
+      "portions": 1,
+      "ingredients": [
+        24,
+        52,
+        10
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Đánh trứng, cho vào chảo chống dính."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm rau bina và feta; gập đôi."
+        }
+      ],
+      "category": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 27,
+      "coverSrc": "https://images.unsplash.com/photo-1467003909585-2f8a72700288",
+      "name": "Quinoa Tabbouleh",
+      "description": "Tabbouleh kiểu nhẹ với diêm mạch, rau thơm tươi.",
+      "author": "Lê Cường",
+      "totalTime": "00:25",
+      "preparationTime": "00:15",
+      "finalWeight": "300 grams",
+      "portions": 2,
+      "ingredients": [
+        17,
+        38,
+        39,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu nở diêm mạch, để nguội."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn rau thơm và cà chua."
+        }
+      ],
+      "category": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 28,
+      "coverSrc": "https://images.unsplash.com/photo-1481070555726-e2fe8357725c",
+      "name": "Cottage Cheese & Berry Bowl",
+      "description": "Bát phô mai tươi với dâu và việt quất — ít béo, giàu đạm.",
+      "author": "Leah Smith",
+      "totalTime": "00:05",
+      "preparationTime": "00:05",
+      "finalWeight": "220 grams",
+      "portions": 1,
+      "ingredients": [
+        34,
+        21,
+        20
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Cho phô mai tươi ra bát."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm dâu và việt quất lên trên."
+        }
+      ],
+      "category": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 29,
+      "coverSrc": "https://images.unsplash.com/photo-1609951651556-5334e2706168?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Tofu & Vegetable Skewers",
+      "description": "Xiên đậu hũ và rau củ nướng — thơm khói, thuần chay.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:35",
+      "preparationTime": "00:15",
+      "finalWeight": "260 grams",
+      "portions": 2,
+      "ingredients": [
+        27,
+        12,
+        13,
+        22
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Xiên đậu hũ và rau đồng cỡ."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Nướng lửa vừa tới khi cháy xém cạnh."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 30,
+      "coverSrc": "https://media.istockphoto.com/id/1168164405/fr/photo/cr%C3%AApe-maison-de-myrtille-avec-le-miel-doux-et-largenterie-de-fourchette-sur-la-table-en-bois.webp?a=1&s=612x612&w=0&k=20&c=b7gseDXFvrVPfij75mVuCk4eRcnV57Dfyb9rUGrdV6A=",
+      "name": "Tomato Basil Whole Wheat Pasta",
+      "description": "Mì nguyên cám sốt cà chua & húng quế, rưới dầu ô liu.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:25",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        44,
+        25,
+        38,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc mì; giữ lại ít nước luộc."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào nhanh cà chua, trộn mì với húng quế và dầu ô liu."
+        }
+      ],
+      "category": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 31,
+      "coverSrc": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e",
+      "name": "Sardine Avocado Toast",
+      "description": "Toast bơ và cá mòi hộp — đậm đà omega-3, no lâu.",
+      "author": "Mai Linh",
+      "totalTime": "00:12",
+      "preparationTime": "00:12",
+      "finalWeight": "220 grams",
+      "portions": 1,
+      "ingredients": [
+        11,
+        9,
+        64,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nướng bánh mì, phết bơ nghiền."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm cá mòi và cà chua; rắc tiêu."
+        }
+      ],
+      "category": [
+        6,
+        2
+      ]
+    },
+    {
+      "id": 32,
+      "coverSrc": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+      "name": "Tuna Quinoa Salad",
+      "description": "Salad cá ngừ với diêm mạch, dưa leo và cà chua.",
+      "author": "Trần Bình",
+      "totalTime": "00:20",
+      "preparationTime": "00:10",
+      "finalWeight": "300 grams",
+      "portions": 1,
+      "ingredients": [
+        65,
+        17,
+        15,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu chín diêm mạch, để nguội."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn cá ngừ, dưa leo và cà chua."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 33,
+      "coverSrc": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38",
+      "name": "Cauliflower Egg Fried Rice",
+      "description": "Cơm chiên súp lơ nghiền với trứng, tỏi, hành tím.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:18",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 2,
+      "ingredients": [
+        71,
+        10,
+        8,
+        14
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Xay súp lơ hạt nhỏ, xào với tỏi."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm trứng đảo tơi, nêm nhẹ."
+        }
+      ],
+      "category": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 34,
+      "coverSrc": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      "name": "Asparagus Lemon Salmon",
+      "description": "Cá hồi áp chảo ăn cùng măng tây, vị chanh dịu.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:25",
+      "preparationTime": "00:12",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        4,
+        72,
+        3
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo cá hồi gần chín."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm măng tây, vắt chanh và dừng lửa."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 35,
+      "coverSrc": "https://images.unsplash.com/photo-1467453678174-768ec283a940",
+      "name": "Beet & Goat Cheese Walnut Salad",
+      "description": "Salad củ dền, phô mai dê và óc chó — bùi, tươi.",
+      "author": "Lê Cường",
+      "totalTime": "00:15",
+      "preparationTime": "00:15",
+      "finalWeight": "280 grams",
+      "portions": 2,
+      "ingredients": [
+        62,
+        63,
+        31,
+        70
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn củ dền với cải xoăn/rau lá."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm phô mai dê và hạt óc chó."
+        }
+      ],
+      "category": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": 36,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1674228288173-519727295a6c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGZvb2QlMjAlMjBkcmlua3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Chia Mango Kefir Pudding",
+      "description": "Pudding hạt chia với xoài và kefir nhẹ bụng.",
+      "author": "Mia Johnson",
+      "totalTime": "00:05",
+      "preparationTime": "00:05",
+      "finalWeight": "250 grams",
+      "portions": 1,
+      "ingredients": [
+        68,
+        57,
+        55
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn kefir với hạt chia, để nở."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm xoài hạt lựu, dùng lạnh."
+        }
+      ],
+      "category": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 37,
+      "coverSrc": "https://images.unsplash.com/photo-1483918793747-5adbf82956c4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Walnut Pesto Whole Wheat Pasta",
+      "description": "Mì nguyên cám sốt pesto hạt óc chó, thơm húng quế.",
+      "author": "Nguyễn An",
+      "totalTime": "00:20",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        44,
+        76,
+        70,
+        38
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc mì; giữ chút nước luộc."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn pesto với mì và húng quế."
+        }
+      ],
+      "category": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 38,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1669261882830-1e504a9abf1d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Green Bean Beef Stir-Fry",
+      "description": "Đậu que xào bò kiểu nhanh, ăn cơm nóng là hết nồi.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:18",
+      "preparationTime": "00:10",
+      "finalWeight": "300 grams",
+      "portions": 2,
+      "ingredients": [
+        73,
+        29,
+        40
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Xào nhanh thịt bò."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm đậu que và xì dầu; đảo đều."
+        }
+      ],
+      "category": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 39,
+      "coverSrc": "https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Skyr Berry Cup with Honey",
+      "description": "Cốc skyr với dâu, việt quất và ít mật ong.",
+      "author": "Hana Park",
+      "totalTime": "00:05",
+      "preparationTime": "00:05",
+      "finalWeight": "220 grams",
+      "portions": 1,
+      "ingredients": [
+        77,
+        21,
+        20,
+        36
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Múc skyr ra cốc."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm trái cây và rưới mật ong."
+        }
+      ],
+      "category": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 40,
+      "coverSrc": "https://images.unsplash.com/photo-1600803907087-f56d462fd26b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Ricotta Tomato Toast",
+      "description": "Toast ricotta, cà chua và dầu ô liu.",
+      "author": "Anna Lee",
+      "totalTime": "00:10",
+      "preparationTime": "00:10",
+      "finalWeight": "200 grams",
+      "portions": 1,
+      "ingredients": [
+        78,
+        11,
+        25,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nướng lát bánh mì."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Phết ricotta, thêm cà chua và dầu."
+        }
+      ],
+      "category": [
+        6
+      ]
+    },
+    {
+      "id": 41,
+      "coverSrc": "https://images.unsplash.com/photo-1488477181946-6428a0291777",
+      "name": "Shrimp Pesto Zoodles",
+      "description": "Mì zucchini với tôm và pesto — ít tinh bột, thơm béo.",
+      "author": "Leah Smith",
+      "totalTime": "00:20",
+      "preparationTime": "00:12",
+      "finalWeight": "280 grams",
+      "portions": 1,
+      "ingredients": [
+        28,
+        13,
+        76
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Bào zucchini thành sợi, để ráo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào tôm, trộn pesto và zoodles."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 42,
+      "coverSrc": "https://images.unsplash.com/photo-1546793665-c74683f339c1",
+      "name": "Turkey & Brown Rice Stuffed Peppers",
+      "description": "Ớt chuông nhồi gà tây và gạo lứt — ăn lành mạnh.",
+      "author": "Mia Johnson",
+      "totalTime": "00:45",
+      "preparationTime": "00:20",
+      "finalWeight": "360 grams",
+      "portions": 2,
+      "ingredients": [
+        45,
+        5,
+        12,
+        14
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Xào sơ gà tây với hành tím."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Nhồi vào ớt chuông cùng gạo lứt, nướng chín."
+        }
+      ],
+      "category": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 43,
+      "coverSrc": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea",
+      "name": "Pumpkin Seed Granola Yogurt Bowl",
+      "description": "Sữa chua với granola hạt bí, táo — sáng giàu chất xơ.",
+      "author": "Nguyễn An",
+      "totalTime": "00:08",
+      "preparationTime": "00:08",
+      "finalWeight": "230 grams",
+      "portions": 1,
+      "ingredients": [
+        23,
+        18,
+        51,
+        48
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn yến mạch với sữa chua."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm hạt bí và táo."
+        }
+      ],
+      "category": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 44,
+      "coverSrc": "https://images.unsplash.com/photo-1546069901-5ec6a79120b0",
+      "name": "Tuna Nori Onigiri",
+      "description": "Cơm nắm onigiri nhân cá ngừ, rong biển.",
+      "author": "Hana Park",
+      "totalTime": "00:30",
+      "preparationTime": "00:20",
+      "finalWeight": "260 grams",
+      "portions": 2,
+      "ingredients": [
+        16,
+        65,
+        42,
+        41
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn cơm với giấm gạo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Bọc nhân cá ngừ, gói nori bên ngoài."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 45,
+      "coverSrc": "https://images.unsplash.com/photo-1532939624-3af1308db9a5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTd8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Coconut Chickpea Curry",
+      "description": "Cà ri đậu gà sữa dừa, ớt chuông và bông cải.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:30",
+      "preparationTime": "00:15",
+      "finalWeight": "380 grams",
+      "portions": 2,
+      "ingredients": [
+        66,
+        32,
+        12,
+        2
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Xào ớt chuông, thêm đậu gà."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Đổ sữa dừa, hầm sôi nhẹ và nêm."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 46,
+      "coverSrc": "https://images.unsplash.com/photo-1529042410759-befb1204b468?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Asparagus Mushroom Omelette",
+      "description": "Ốp lết măng tây nấm — giàu đạm, bữa sáng nhanh.",
+      "author": "Anna Lee",
+      "totalTime": "00:15",
+      "preparationTime": "00:10",
+      "finalWeight": "240 grams",
+      "portions": 1,
+      "ingredients": [
+        72,
+        22,
+        10
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Xào măng tây, nấm."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Đổ trứng, gập đôi khi chín."
+        }
+      ],
+      "category": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 47,
+      "coverSrc": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e",
+      "name": "Chocolate Peanut Overnight Oats",
+      "description": "Overnight oats cacao và bơ đậu phộng.",
+      "author": "Leah Smith",
+      "totalTime": "00:05",
+      "preparationTime": "00:05",
+      "finalWeight": "260 grams",
+      "portions": 1,
+      "ingredients": [
+        18,
+        67,
+        35
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn yến mạch với nước/sữa, cacao."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm bơ đậu phộng, ủ lạnh qua đêm."
+        }
+      ],
+      "category": [
+        5
+      ]
+    },
+    {
+      "id": 48,
+      "coverSrc": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Pomegranate Quinoa Salad",
+      "description": "Diêm mạch trộn hạt lựu, rau bina và cà chua.",
+      "author": "Nguyễn An",
+      "totalTime": "00:22",
+      "preparationTime": "00:12",
+      "finalWeight": "300 grams",
+      "portions": 2,
+      "ingredients": [
+        17,
+        75,
+        24,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu diêm mạch, để nguội."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn với hạt lựu và rau."
+        }
+      ],
+      "category": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 49,
+      "coverSrc": "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+      "name": "Walnut Beet Hummus Toast",
+      "description": "Toast phết hummus củ dền, rắc óc chó.",
+      "author": "Trần Bình",
+      "totalTime": "00:12",
+      "preparationTime": "00:10",
+      "finalWeight": "210 grams",
+      "portions": 1,
+      "ingredients": [
+        53,
+        62,
+        70,
+        11
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Xay hummus với củ dền chín."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Phết lên bánh mì, rắc óc chó."
+        }
+      ],
+      "category": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 50,
+      "coverSrc": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea",
+      "name": "Corn & Edamame Salad",
+      "description": "Salad bắp hạt và edamame, thêm cà chua bi, dưa leo.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:15",
+      "preparationTime": "00:10",
+      "finalWeight": "300 grams",
+      "portions": 2,
+      "ingredients": [
+        80,
+        43,
+        58,
+        15
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn bắp, edamame và rau."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Nêm chua nhẹ bằng chanh/giấm."
+        }
+      ],
+      "category": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 51,
+      "coverSrc": "https://images.unsplash.com/photo-1525059337994-6f2a1311b4d4",
+      "name": "Couscous Vegetable Salad",
+      "description": "A light Mediterranean couscous salad with fresh herbs and lemon dressing.",
+      "author": "Lê Cường",
+      "totalTime": "00:25",
+      "preparationTime": "00:15",
+      "finalWeight": "300 grams",
+      "portions": 2,
+      "ingredients": [
+        81,
+        12,
+        25,
+        38
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Cook couscous until fluffy, let cool."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Mix vegetables and herbs together."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Toss with lemon juice and olive oil; serve chilled."
+        }
+      ],
+      "category": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 52,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1694707367241-379972ecdc10?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Tempeh Teriyaki Bowl",
+      "description": "Bowl đậu nành lên men sốt teriyaki, giàu đạm thực vật.",
+      "author": "Nguyễn An",
+      "totalTime": "00:30",
+      "preparationTime": "00:15",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        82,
+        16,
+        12,
+        40
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Cắt tempeh, áp chảo nhẹ cho vàng mặt."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm sốt teriyaki, đảo đều."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Dùng kèm cơm và rau củ luộc."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 53,
+      "coverSrc": "https://images.unsplash.com/photo-1539136788836-5699e78bfc75?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjR8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Lamb & Couscous Plate",
+      "description": "Đĩa thịt cừu nướng ăn cùng couscous, vị Địa Trung Hải đặc trưng.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:40",
+      "preparationTime": "00:20",
+      "finalWeight": "400 grams",
+      "portions": 2,
+      "ingredients": [
+        84,
+        81,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nướng thịt cừu vừa chín tới, để nghỉ 5 phút."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Luộc couscous, thêm rau củ."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Trộn tất cả và rưới sốt chanh dầu ô liu."
+        }
+      ],
+      "category": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 54,
+      "coverSrc": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjF8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Udon Miso Soup",
+      "description": "Súp udon Nhật vị miso thanh dịu, ấm bụng.",
+      "author": "Hana Park",
+      "totalTime": "00:25",
+      "preparationTime": "00:10",
+      "finalWeight": "350 ml",
+      "portions": 1,
+      "ingredients": [
+        86,
+        91,
+        85,
+        93
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu nước dùng miso."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm udon và rau bok choy."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Dùng nóng, thêm ít hành và rong biển."
+        }
+      ],
+      "category": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 55,
+      "coverSrc": "https://media.istockphoto.com/id/1475221473/fr/photo/d%C3%A9licieux-double-burger-avec-fran%C3%A7ais-frites-et-l%C3%A9gumes-sur-planche-%C3%A0-d%C3%A9couper-en-bois.webp?a=1&s=612x612&w=0&k=20&c=8XnAZZIVdKRwbNLAlgRd-UaHlz4yVqb3LWY6J4o8zWM=",
+      "name": "Eggplant Parmigiana",
+      "description": "Món Ý truyền thống — cà tím nướng phủ phô mai mozzarella và sốt cà chua.",
+      "author": "Anna Lee",
+      "totalTime": "00:45",
+      "preparationTime": "00:20",
+      "finalWeight": "350 grams",
+      "portions": 2,
+      "ingredients": [
+        95,
+        25,
+        87,
+        88
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nướng cà tím đến khi mềm."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Rưới sốt cà chua và thêm mozzarella."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Nướng thêm 10 phút; dùng nóng."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 56,
+      "coverSrc": "https://images.unsplash.com/photo-1606787366850-de6330128bfc",
+      "name": "Bulgogi Beef Rice Bowl",
+      "description": "Cơm thịt bò bulgogi Hàn Quốc, ngọt mặn hài hòa.",
+      "author": "Trần Bình",
+      "totalTime": "00:35",
+      "preparationTime": "00:15",
+      "finalWeight": "400 grams",
+      "portions": 2,
+      "ingredients": [
+        96,
+        16,
+        12,
+        15
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Ướp thịt bò với nước tương và tỏi."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào nhanh trên chảo nóng."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Dùng với cơm trắng và rau trộn."
+        }
+      ],
+      "category": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 57,
+      "coverSrc": "https://images.unsplash.com/photo-1494859802809-d069c3b71a8a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Paneer Tikka Masala",
+      "description": "Đậu paneer nấu cà ri Ấn Độ, cay nhẹ và thơm sữa.",
+      "author": "Nguyễn An",
+      "totalTime": "00:45",
+      "preparationTime": "00:20",
+      "finalWeight": "350 grams",
+      "portions": 2,
+      "ingredients": [
+        97,
+        25,
+        92,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Chiên vàng paneer, để ráo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Nấu sốt curry, thêm paneer vào."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Dùng nóng với cơm hoặc bánh naan."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 58,
+      "coverSrc": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Green Curry Chicken",
+      "description": "Gà nấu cà ri xanh kiểu Thái — cay nhẹ, béo thơm.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:40",
+      "preparationTime": "00:20",
+      "finalWeight": "400 grams",
+      "portions": 2,
+      "ingredients": [
+        1,
+        92,
+        75,
+        12
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Phi thơm curry paste, thêm thịt gà."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Đổ sữa dừa, hầm nhỏ lửa."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Nêm vừa miệng, thêm rau, dùng với cơm."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 59,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1695132236644-1cc276ec81f6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Miso Tofu Soup",
+      "description": "Canh đậu hũ miso kiểu Nhật — nhẹ nhàng, thanh mát.",
+      "author": "Hana Park",
+      "totalTime": "00:15",
+      "preparationTime": "00:05",
+      "finalWeight": "300 ml",
+      "portions": 1,
+      "ingredients": [
+        27,
+        91,
+        85,
+        83
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu nước miso."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm đậu hũ và rong biển."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Nêm nhẹ và dùng nóng."
+        }
+      ],
+      "category": [
+        4
+      ]
+    },
+    {
+      "id": 60,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1669687759693-52ba5f9fa7a8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Duck & Bok Choy Stir-Fry",
+      "description": "Vịt áp chảo xào bok choy — món Á thanh vị.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:25",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 2,
+      "ingredients": [
+        94,
+        85,
+        40
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo thịt vịt da giòn."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào bok choy với nước tương."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Trộn chung và dùng nóng."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 61,
+      "coverSrc": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      "name": "Smoked Salmon Romaine Caesar (Light)",
+      "description": "Salad romaine kiểu Caesar kèm cá hồi xông khói — nhẹ, giàu đạm.",
+      "author": "Mai Linh",
+      "totalTime": "00:15",
+      "preparationTime": "00:10",
+      "finalWeight": "280 grams",
+      "portions": 1,
+      "ingredients": [
+        105,
+        107,
+        26,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Rửa và để ráo xà lách romaine."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xé nhỏ, trộn nhẹ với dầu ô liu và cà chua."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm cá hồi xông khói, tiêu đen và dùng ngay."
+        }
+      ],
+      "category": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 62,
+      "coverSrc": "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+      "name": "Israeli Couscous & Artichoke Bowl",
+      "description": "Bowl couscous hạt tròn trộn atisô và capers kiểu Địa Trung Hải.",
+      "author": "Nguyễn An",
+      "totalTime": "00:22",
+      "preparationTime": "00:12",
+      "finalWeight": "320 grams",
+      "portions": 2,
+      "ingredients": [
+        108,
+        103,
+        104,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc Israeli couscous vừa chín; để ấm."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn atisô, capers và dầu ô liu."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Nêm chanh, tiêu; ăn ấm hoặc nguội."
+        }
+      ],
+      "category": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 63,
+      "coverSrc": "https://images.unsplash.com/photo-1546069901-5ec6a79120b0",
+      "name": "Gnocchi with Pesto & Cherry Tomatoes",
+      "description": "Gnocchi sốt pesto, cà chua bi — nhanh gọn kiểu Ý.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:18",
+      "preparationTime": "00:08",
+      "finalWeight": "330 grams",
+      "portions": 1,
+      "ingredients": [
+        113,
+        114,
+        58
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc gnocchi nổi mặt; vớt ra để ráo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn với pesto, đảo đều."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm cà chua bi, tiêu; dùng ngay."
+        }
+      ],
+      "category": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 64,
+      "coverSrc": "https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Blue Cheese & Beet Polenta",
+      "description": "Polenta kem mịn phủ củ dền và phô mai xanh — béo bùi lạ miệng.",
+      "author": "Lê Cường",
+      "totalTime": "00:30",
+      "preparationTime": "00:10",
+      "finalWeight": "340 grams",
+      "portions": 2,
+      "ingredients": [
+        115,
+        62,
+        116,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu polenta với nước/stock đến sánh."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm chút dầu ô liu; nêm nhạt."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Bày củ dền lên, rắc blue cheese; dùng nóng."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 65,
+      "coverSrc": "https://images.unsplash.com/photo-1506354666786-959d6d497f1a",
+      "name": "Brussels Sprouts with Almonds & Lemon",
+      "description": "Bắp cải tí hon xào hạnh nhân, vắt chanh — giòn thơm.",
+      "author": "Mia Johnson",
+      "totalTime": "00:16",
+      "preparationTime": "00:08",
+      "finalWeight": "300 grams",
+      "portions": 2,
+      "ingredients": [
+        117,
+        19,
+        3,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Bổ đôi Brussels sprouts, áp chảo với dầu."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm hạnh nhân rang, đảo đều."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Vắt chanh, nêm muối tiêu; dùng nóng."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 66,
+      "coverSrc": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "name": "Spicy Gochujang Tofu Rice",
+      "description": "Cơm đậu hũ sốt gochujang cay nhẹ, đậm vị Hàn.",
+      "author": "Hana Park",
+      "totalTime": "00:25",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        109,
+        102,
+        16,
+        12
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Cắt đậu hũ non, để ráo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào với gochujang và ít xì dầu."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Dùng với cơm nóng và ớt chuông."
+        }
+      ],
+      "category": [
+        3
+      ]
+    },
+    {
+      "id": 67,
+      "coverSrc": "https://images.unsplash.com/photo-1473093226795-af9932fe5856?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzN8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Mackerel with Lemon & Herbs",
+      "description": "Cá thu áp chảo vỏ giòn, vắt chanh, thơm thảo mộc.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:20",
+      "preparationTime": "00:10",
+      "finalWeight": "300 grams",
+      "portions": 1,
+      "ingredients": [
+        118,
+        3,
+        38,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo cá thu da giòn."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Rưới chút dầu ô liu và thảo mộc."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Vắt chanh, dùng nóng với rau."
+        }
+      ],
+      "category": [
+        2,
+        1
+      ]
+    },
+    {
+      "id": 68,
+      "coverSrc": "https://images.unsplash.com/photo-1505253668822-42074d58a7c6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Prosciutto Melon Salad",
+      "description": "Salad dưa lưới cuộn prosciutto, dầu ô liu — khai vị kiểu Ý.",
+      "author": "Anna Lee",
+      "totalTime": "00:10",
+      "preparationTime": "00:10",
+      "finalWeight": "260 grams",
+      "portions": 2,
+      "ingredients": [
+        106,
+        74,
+        26,
+        38
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Cắt dưa lưới miếng vừa."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Cuộn prosciutto quanh miếng dưa."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Rưới dầu ô liu, rắc húng quế; dùng nguội."
+        }
+      ],
+      "category": [
+        6
+      ]
+    },
+    {
+      "id": 69,
+      "coverSrc": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Soba Sesame Salad with Avocado",
+      "description": "Soba trộn mè và bơ — thanh mát, no lâu.",
+      "author": "Nguyễn An",
+      "totalTime": "00:18",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        101,
+        59,
+        60,
+        9
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc soba, xả lạnh để ráo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn dầu mè, mè rang và ít xì dầu."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm bơ cắt khối; trộn nhẹ tay."
+        }
+      ],
+      "category": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 70,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1700161713075-4c5b8dedfa0d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzV8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Naan with Paneer & Spinach",
+      "description": "Bánh naan kẹp paneer và rau bina — nhanh mà đủ chất.",
+      "author": "Trần Bình",
+      "totalTime": "00:15",
+      "preparationTime": "00:08",
+      "finalWeight": "300 grams",
+      "portions": 1,
+      "ingredients": [
+        119,
+        97,
+        24
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Hâm nóng naan trên chảo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào nhanh paneer với rau bina."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Kẹp vào naan, ăn nóng."
+        }
+      ],
+      "category": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 71,
+      "coverSrc": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+      "name": "Wasabi Tuna Onigiri",
+      "description": "Onigiri cá ngừ chấm wasabi và gừng hồng muối.",
+      "author": "Hana Park",
+      "totalTime": "00:28",
+      "preparationTime": "00:15",
+      "finalWeight": "280 grams",
+      "portions": 2,
+      "ingredients": [
+        16,
+        65,
+        111,
+        110,
+        42,
+        41
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn cơm với giấm gạo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn cá ngừ với chút wasabi."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Nắn cơm bọc nhân, cuốn nori; ăn kèm gừng muối."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 72,
+      "coverSrc": "https://images.unsplash.com/photo-1544025162-d76694265947",
+      "name": "Mirin-Glazed Salmon",
+      "description": "Cá hồi áp chảo sốt mirin và xì dầu — ngọt mặn cân bằng.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:18",
+      "preparationTime": "00:08",
+      "finalWeight": "300 grams",
+      "portions": 1,
+      "ingredients": [
+        4,
+        112,
+        40,
+        3
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo cá hồi gần chín."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm mirin và xì dầu, rim nhanh."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Vắt chanh, dùng nóng với cơm/rau."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 73,
+      "coverSrc": "https://images.unsplash.com/photo-1559054663-e8d23213f55c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Caesar-Style Romaine & Edamame",
+      "description": "Biến tấu Caesar với romaine và edamame — nhiều đạm thực vật.",
+      "author": "Leah Smith",
+      "totalTime": "00:12",
+      "preparationTime": "00:08",
+      "finalWeight": "300 grams",
+      "portions": 2,
+      "ingredients": [
+        107,
+        43,
+        26,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Rửa ráo romaine, cắt khúc."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn với edamame, dầu ô liu."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm cà chua; nêm tiêu, muối nhạt."
+        }
+      ],
+      "category": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 74,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1676106623769-539ecc6d7f92?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Prosciutto Asparagus Wraps",
+      "description": "Măng tây cuộn prosciutto nướng nhanh — khai vị sang chảnh.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:15",
+      "preparationTime": "00:08",
+      "finalWeight": "240 grams",
+      "portions": 2,
+      "ingredients": [
+        72,
+        106,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Chần măng tây 1 phút, để ráo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Cuộn prosciutto quanh từng cây."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Áp chảo nhanh, rưới chút dầu; dùng nóng."
+        }
+      ],
+      "category": [
+        1,
+        6
+      ]
+    },
+    {
+      "id": 75,
+      "coverSrc": "https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODF8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Miso-Glazed Brussels Sprouts",
+      "description": "Brussels sprouts nướng sốt miso — mặn ngọt cân bằng.",
+      "author": "Nguyễn An",
+      "totalTime": "00:22",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 2,
+      "ingredients": [
+        117,
+        91,
+        26,
+        8
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn Brussels sprouts với miso và dầu."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Nướng 200°C đến xém cạnh."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Rắc tỏi phi; dùng nóng."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 76,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1678897742200-85f052d33a71?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODN8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Capers & Lemon Salmon Pasta",
+      "description": "Mì cá hồi chanh và capers — thơm nức kiểu Địa Trung Hải.",
+      "author": "Anna Lee",
+      "totalTime": "00:25",
+      "preparationTime": "00:12",
+      "finalWeight": "350 grams",
+      "portions": 1,
+      "ingredients": [
+        44,
+        4,
+        104,
+        3,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc mì nguyên cám vừa chín."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Áp chảo cá hồi, vắt chanh."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Trộn mì với capers và dầu ô liu; nêm tiêu."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 77,
+      "coverSrc": "https://images.unsplash.com/photo-1519996409144-56c88c9aa612?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Pomegranate Quinoa Kale Bowl 2.0",
+      "description": "Bản nâng cấp: diêm mạch + cải xoăn + hạt lựu — tươi giòn, vi chất cao.",
+      "author": "Lê Cường",
+      "totalTime": "00:24",
+      "preparationTime": "00:12",
+      "finalWeight": "340 grams",
+      "portions": 2,
+      "ingredients": [
+        17,
+        31,
+        120,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu chín diêm mạch, để nguội."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Mát-xa kale với chút dầu và muối."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Trộn hạt lựu, diêm mạch, nêm chanh/dầu."
+        }
+      ],
+      "category": [
+        6,
+        3
+      ]
+    },
+    {
+      "id": 78,
+      "coverSrc": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODR8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Smoked Salmon Avocado Toast",
+      "description": "Toast bơ + cá hồi xông khói — sáng nhanh gọn, giàu omega-3.",
+      "author": "Mai Linh",
+      "totalTime": "00:08",
+      "preparationTime": "00:08",
+      "finalWeight": "220 grams",
+      "portions": 1,
+      "ingredients": [
+        11,
+        9,
+        105,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nướng bánh mì."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Phết bơ nghiền, xếp cá hồi xông khói."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm cà chua, tiêu; dùng ngay."
+        }
+      ],
+      "category": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 79,
+      "coverSrc": "https://images.unsplash.com/photo-1512149177596-f817c7ef5d4c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODV8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Gnocchi with Blue Cheese & Walnuts",
+      "description": "Gnocchi kem phô mai xanh, rắc óc chó — béo bùi, ấm bụng.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:20",
+      "preparationTime": "00:10",
+      "finalWeight": "340 grams",
+      "portions": 1,
+      "ingredients": [
+        113,
+        116,
+        70
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc gnocchi, giữ lại chút nước luộc."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Nấu chảy blue cheese với nước luộc."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Trộn gnocchi, rắc óc chó; dùng nóng."
+        }
+      ],
+      "category": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 80,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1672242676665-39db88975682?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODd8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Tofu Soba Soup with Mirin",
+      "description": "Súp soba với đậu hũ non, mirin — thanh, ấm, dễ ăn.",
+      "author": "Hana Park",
+      "totalTime": "00:20",
+      "preparationTime": "00:08",
+      "finalWeight": "360 ml",
+      "portions": 1,
+      "ingredients": [
+        101,
+        109,
+        112,
+        85
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu nước dùng nhạt, thêm mirin."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Luộc soba, cho vào tô."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm đậu hũ non, bok choy; dùng nóng."
+        }
+      ],
+      "category": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": 81,
+      "coverSrc": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODZ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Farro & Roasted Pepper Bowl",
+      "description": "Bát farro trộn ớt đỏ nướng, olive và húng quế.",
+      "author": "Nguyễn An",
+      "totalTime": "00:28",
+      "preparationTime": "00:12",
+      "finalWeight": "340 grams",
+      "portions": 2,
+      "ingredients": [
+        133,
+        134,
+        123,
+        38,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu farro chín mềm; để ấm."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn farro với ớt nướng, olive, húng quế."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Rưới dầu ô liu, nêm chanh/tiêu; dùng ấm hoặc nguội."
+        }
+      ],
+      "category": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 82,
+      "coverSrc": "https://images.unsplash.com/photo-1577303935007-0d306ee638cf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODh8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Udon Stir-Fry with Shiitake & Baby Corn",
+      "description": "Udon xào nấm hương và bắp non, vị xì dầu dịu.",
+      "author": "Hana Park",
+      "totalTime": "00:20",
+      "preparationTime": "00:10",
+      "finalWeight": "360 grams",
+      "portions": 1,
+      "ingredients": [
+        129,
+        130,
+        140,
+        40,
+        59,
+        135
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc udon, xả nước, để ráo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào nấm hương, bắp non với dầu mè."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm udon, xì dầu, hành lá; đảo đều và dùng nóng."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 83,
+      "coverSrc": "https://images.unsplash.com/photo-1494390248081-4e521a5940db?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Anchovy Lemon Whole Wheat Pasta",
+      "description": "Mì nguyên cám sốt anchovy chanh và tỏi — mặn mà, thơm nức.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:17",
+      "preparationTime": "00:08",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        44,
+        137,
+        8,
+        3,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc mì vừa chín; giữ lại chút nước luộc."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Phi tỏi với anchovy cho tan."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Trộn mì, vắt chanh, thêm dầu ô liu; nêm tiêu."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 84,
+      "coverSrc": "https://images.unsplash.com/photo-1568600891621-50f697b9a1c7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTB8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Tempeh Sesame Rice Bowl",
+      "description": "Bowl cơm tempeh mè rang, rau xanh no lâu.",
+      "author": "Mai Linh",
+      "totalTime": "00:22",
+      "preparationTime": "00:10",
+      "finalWeight": "360 grams",
+      "portions": 1,
+      "ingredients": [
+        127,
+        16,
+        60,
+        132,
+        59,
+        40
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo tempeh với chút dầu mè."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm mè rang, xì dầu; đảo thơm."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Dùng kèm cơm trắng và baby spinach."
+        }
+      ],
+      "category": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 85,
+      "coverSrc": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Bulgur Tabbouleh with Sun-dried Tomato",
+      "description": "Tabbouleh biến tấu bulgur + cà chua sấy + rau thơm.",
+      "author": "Trần Bình",
+      "totalTime": "00:18",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 2,
+      "ingredients": [
+        121,
+        124,
+        38,
+        39,
+        3,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Ngâm/nấu bulgur vừa chín; để nguội."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn cà chua sấy băm, rau thơm, chanh."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Rưới dầu ô liu, nêm muối tiêu; trộn đều."
+        }
+      ],
+      "category": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 86,
+      "coverSrc": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Tzatziki Chicken Wrap",
+      "description": "Wrap gà + tzatziki + rau giòn — nhẹ nhàng kiểu Địa Trung Hải.",
+      "author": "Anna Lee",
+      "totalTime": "00:16",
+      "preparationTime": "00:10",
+      "finalWeight": "340 grams",
+      "portions": 1,
+      "ingredients": [
+        1,
+        138,
+        11,
+        15,
+        25
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo ức gà chín, thái lát."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Nướng ấm bánh mì/flatbread."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Phết tzatziki, thêm gà, dưa leo, cà chua rồi cuộn."
+        }
+      ],
+      "category": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 87,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1663852705829-aa8707495e2e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTd8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Shiitake & Spinach Egg Drop Soup",
+      "description": "Canh trứng thả với nấm hương và rau bina — ấm bụng, ít béo.",
+      "author": "Hana Park",
+      "totalTime": "00:15",
+      "preparationTime": "00:07",
+      "finalWeight": "380 ml",
+      "portions": 2,
+      "ingredients": [
+        130,
+        132,
+        10,
+        40
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu nước dùng nhạt, cho nấm hương vào."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thả rau bina; khuấy đều."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Rót trứng đánh mỏng thành sợi; nêm xì dầu."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 88,
+      "coverSrc": "https://images.unsplash.com/photo-1477925518023-22b33cbd802c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTZ8fGZvb2R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "name": "Udon with Gochujang Tomato Glaze",
+      "description": "Udon sốt gochujang cà chua — cay nhẹ, đậm vị.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:18",
+      "preparationTime": "00:08",
+      "finalWeight": "340 grams",
+      "portions": 1,
+      "ingredients": [
+        129,
+        102,
+        25,
+        12,
+        59
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc udon, để ráo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào ớt chuông, cà chua; cho gochujang vào."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Trộn udon, rưới dầu mè; đảo đều và dùng nóng."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 89,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1668095398271-20f829d034bc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAxfHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Rice Paper Rolls with Tofu & Avocado",
+      "description": "Gỏi cuốn đậu hũ bơ, dưa leo — tươi, nhẹ, dễ ăn.",
+      "author": "Mai Linh",
+      "totalTime": "00:20",
+      "preparationTime": "00:15",
+      "finalWeight": "320 grams",
+      "portions": 2,
+      "ingredients": [
+        128,
+        27,
+        9,
+        15,
+        38
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nhúng mềm bánh tráng."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xếp đậu hũ, bơ, dưa leo, húng quế vào giữa."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Cuộn chặt và dùng với nước chấm ưa thích."
+        }
+      ],
+      "category": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": 90,
+      "coverSrc": "https://images.unsplash.com/photo-1604152135912-04a022e23696?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAyfHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Mascarpone Berry Toast",
+      "description": "Toast phết mascarpone, dâu và việt quất — tráng miệng nhanh.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:08",
+      "preparationTime": "00:08",
+      "finalWeight": "220 grams",
+      "portions": 1,
+      "ingredients": [
+        11,
+        126,
+        21,
+        20
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nướng lát bánh mì."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Phết mascarpone đều mặt."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm dâu, việt quất; có thể rưới ít mật ong."
+        }
+      ],
+      "category": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": 91,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Chickpea Spinach Lemon Skillet",
+      "description": "Đậu gà xào rau bina, tỏi và chanh — ấm, đạm thực vật.",
+      "author": "Lê Cường",
+      "totalTime": "00:16",
+      "preparationTime": "00:08",
+      "finalWeight": "340 grams",
+      "portions": 2,
+      "ingredients": [
+        131,
+        132,
+        8,
+        3,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Phi tỏi, cho đậu gà vào đảo."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Thêm rau bina đến khi xẹp."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Vắt chanh, rưới dầu ô liu; nêm muối tiêu."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 92,
+      "coverSrc": "https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA2fHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Soba Salad with Harissa Lemon",
+      "description": "Soba trộn sốt harissa chanh — cay thanh, lạ miệng.",
+      "author": "Nguyễn An",
+      "totalTime": "00:17",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        101,
+        122,
+        3,
+        15,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc soba, xả lạnh."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Pha harissa với chanh và dầu."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Trộn soba với dưa leo; nêm vừa ăn."
+        }
+      ],
+      "category": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 93,
+      "coverSrc": "https://images.unsplash.com/photo-1532980400857-e8d9d275d858?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTExfHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Arborio Lemon Chicken Skillet",
+      "description": "Cơm risotto nhanh kiểu chảo với ức gà và chanh.",
+      "author": "Mia Johnson",
+      "totalTime": "00:28",
+      "preparationTime": "00:12",
+      "finalWeight": "360 grams",
+      "portions": 2,
+      "ingredients": [
+        125,
+        1,
+        3,
+        14,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo gà; để ra đĩa."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào hành tím, cho gạo arborio; thêm nước dần."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Vắt chanh, cho gà vào trộn; nêm tiêu muối nhẹ."
+        }
+      ],
+      "category": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 94,
+      "coverSrc": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Tempeh Udon Peanut Stir-Fry",
+      "description": "Udon xào tempeh sốt bơ đậu phộng — béo cay, no lâu.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:20",
+      "preparationTime": "00:10",
+      "finalWeight": "360 grams",
+      "portions": 1,
+      "ingredients": [
+        129,
+        127,
+        35,
+        59,
+        40,
+        12
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Trộn bơ đậu phộng với xì dầu, dầu mè."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào tempeh và ớt chuông."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm udon, rưới sốt, đảo đều và dùng nóng."
+        }
+      ],
+      "category": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": 95,
+      "coverSrc": "https://images.unsplash.com/photo-1587015566802-5dc157c901cf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTcyfHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Sun-dried Tomato & Olive Whole Wheat Pasta",
+      "description": "Mì nguyên cám trộn cà chua sấy và olive — Địa Trung Hải.",
+      "author": "Phạm Duyên",
+      "totalTime": "00:16",
+      "preparationTime": "00:08",
+      "finalWeight": "330 grams",
+      "portions": 1,
+      "ingredients": [
+        44,
+        124,
+        123,
+        38,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc mì; giữ chút nước luộc."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn cà chua sấy, olive, húng quế."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Rưới dầu ô liu, nêm tiêu; ăn ấm."
+        }
+      ],
+      "category": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": 96,
+      "coverSrc": "https://images.unsplash.com/photo-1485962093642-5f4386e84429?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM4fHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Greek Chickpea Tzatziki Salad",
+      "description": "Salad đậu gà kiểu Hy Lạp với tzatziki và dưa leo.",
+      "author": "Leah Smith",
+      "totalTime": "00:12",
+      "preparationTime": "00:10",
+      "finalWeight": "320 grams",
+      "portions": 2,
+      "ingredients": [
+        131,
+        138,
+        15,
+        25,
+        38
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Rửa ráo đậu gà hộp."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn tzatziki với đậu gà, dưa leo, cà chua."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Rắc húng quế; chỉnh vị chanh/dầu nếu thích."
+        }
+      ],
+      "category": [
+        6,
+        4
+      ]
+    },
+    {
+      "id": 97,
+      "coverSrc": "https://images.unsplash.com/photo-1564750497011-ead0ce4b9448?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Harissa Salmon with Bulgur",
+      "description": "Cá hồi áp chảo phủ harissa, ăn kèm bulgur chanh.",
+      "author": "Nguyễn An",
+      "totalTime": "00:24",
+      "preparationTime": "00:10",
+      "finalWeight": "360 grams",
+      "portions": 1,
+      "ingredients": [
+        4,
+        122,
+        121,
+        3,
+        26
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu bulgur và trộn với chanh, dầu."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Áp chảo cá hồi; phết harissa mỏng."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Dùng cá lên trên bulgur; rắc tiêu."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 98,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1695802289737-c4db04fad205?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUzfHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Kimchi-Brine Soba",
+      "description": "Soba trộn nước kim chi, mè rang và hành lá — chua cay nhẹ.",
+      "author": "Hana Park",
+      "totalTime": "00:14",
+      "preparationTime": "00:08",
+      "finalWeight": "320 grams",
+      "portions": 1,
+      "ingredients": [
+        101,
+        139,
+        60,
+        135
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Luộc soba, xả lạnh."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Trộn nước kim chi với mè rang."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm hành lá; trộn đều và dùng ngay."
+        }
+      ],
+      "category": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": 99,
+      "coverSrc": "https://plus.unsplash.com/premium_photo-1669559809615-b08af364b738?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYxfHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Shiitake Tomato Couscous",
+      "description": "Couscous hạt tròn trộn nấm hương và cà chua bi.",
+      "author": "Carlos Ramirez",
+      "totalTime": "00:18",
+      "preparationTime": "00:10",
+      "finalWeight": "340 grams",
+      "portions": 2,
+      "ingredients": [
+        108,
+        130,
+        58,
+        26,
+        38
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Nấu chín Israeli couscous."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Xào nấm hương; trộn vào couscous."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Thêm cà chua bi, thảo mộc, dầu ô liu; nêm."
+        }
+      ],
+      "category": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": 100,
+      "coverSrc": "https://images.unsplash.com/photo-1593584785033-9c7604d0863f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc4fHxmb29kfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
+      "name": "Coconut Aminos Salmon Bowl",
+      "description": "Bowl cá hồi sốt coconut aminos, rau xanh và cơm trắng.",
+      "author": "Mai Linh",
+      "totalTime": "00:20",
+      "preparationTime": "00:10",
+      "finalWeight": "360 grams",
+      "portions": 1,
+      "ingredients": [
+        4,
+        136,
+        16,
+        132,
+        135
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 Áp chảo cá hồi gần chín."
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 Rưới coconut aminos, rim nhẹ."
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 Dọn cùng cơm trắng, rau xanh và hành lá."
+        }
+      ],
+      "category": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": 1761660112559,
+      "coverSrc": "https://res.cloudinary.com/di8ege413/image/upload/f_auto,q_auto,w_640,h_480,c_fill/v1761660077/b3csbr9kzbhv1bz6mk0d.jpg",
+      "name": "pho",
+      "description": "tung sa hua",
+      "author": "tung123",
+      "totalTime": "00:40",
+      "preparationTime": "10:10",
+      "finalWeight": "200 grams",
+      "portions": 4,
+      "ingredients": [
+        2,
+        1,
+        24,
+        20
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 tung"
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 ha"
+        },
+        {
+          "step": 3,
+          "content": "STEP 3 trinh"
+        }
+      ],
+      "category": [
+        1,
+        2
+      ],
+      "image": "https://res.cloudinary.com/di8ege413/image/upload/v1761660077/b3csbr9kzbhv1bz6mk0d.jpg",
+      "imageUrl": "https://res.cloudinary.com/di8ege413/image/upload/v1761660077/b3csbr9kzbhv1bz6mk0d.jpg",
+      "imageOptimized": "https://res.cloudinary.com/di8ege413/image/upload/f_auto,q_auto,w_640,h_480,c_fill/v1761660077/b3csbr9kzbhv1bz6mk0d.jpg",
+      "ingredientsV2": [
+        {
+          "foodId": 2,
+          "quantity": 1,
+          "unit": "cup",
+          "grams": 110,
+          "note": "raw, chopped"
+        },
+        {
+          "foodId": 1,
+          "quantity": 100,
+          "unit": "grams",
+          "grams": 100
+        },
+        {
+          "foodId": 24,
+          "quantity": 1,
+          "unit": "cup",
+          "grams": 30,
+          "note": "raw"
+        },
+        {
+          "foodId": 20,
+          "quantity": 1,
+          "unit": "cup",
+          "grams": 150,
+          "note": "raw"
+        }
+      ]
+    },
+    {
+      "id": 1761788039405,
+      "coverSrc": "https://res.cloudinary.com/di8ege413/image/upload/f_auto,q_auto,w_640,h_480,c_fill/v1761787984/nm2px76vhqzv6czvb4pm.jpg",
+      "name": "bun bò",
+      "description": "ngon quá",
+      "author": "tung",
+      "totalTime": "00:30",
+      "preparationTime": "10:10",
+      "finalWeight": "250 grams",
+      "portions": 3,
+      "ingredients": [
+        2,
+        1,
+        4,
+        5
+      ],
+      "cookingMethods": [
+        {
+          "step": 1,
+          "content": "STEP 1 náu"
+        },
+        {
+          "step": 2,
+          "content": "STEP 2 xào"
+        }
+      ],
+      "category": [
+        3,
+        4
+      ],
+      "image": "https://res.cloudinary.com/di8ege413/image/upload/v1761787984/nm2px76vhqzv6czvb4pm.jpg",
+      "imageUrl": "https://res.cloudinary.com/di8ege413/image/upload/v1761787984/nm2px76vhqzv6czvb4pm.jpg",
+      "imageOptimized": "https://res.cloudinary.com/di8ege413/image/upload/f_auto,q_auto,w_640,h_480,c_fill/v1761787984/nm2px76vhqzv6czvb4pm.jpg",
+      "ingredientsV2": [
+        {
+          "foodId": 2,
+          "quantity": 1,
+          "unit": "cup",
+          "grams": 110,
+          "note": "raw, chopped"
+        },
+        {
+          "foodId": 1,
+          "quantity": 100,
+          "unit": "grams",
+          "grams": 100
+        },
+        {
+          "foodId": 4,
+          "quantity": 1,
+          "unit": "tbsp",
+          "grams": 14
+        },
+        {
+          "foodId": 5,
+          "quantity": 100,
+          "unit": "grams",
+          "grams": 100,
+          "note": "dry"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "High Protein",
+      "description": "Dishes rich in protein that help build muscles and restore energy."
+    },
+    {
+      "id": 2,
+      "name": "Seafood",
+      "description": "Meals made from fish, shrimp, or crab — rich in omega-3 and essential minerals."
+    },
+    {
+      "id": 3,
+      "name": "Eat Clean",
+      "description": "Healthy, low-fat meals designed to maintain fitness and overall wellness."
+    },
+    {
+      "id": 4,
+      "name": "Vegetarian & Veggies",
+      "description": "Plant-based dishes made from vegetables and fruits — ideal for vegetarians or detox diets."
+    },
+    {
+      "id": 5,
+      "name": "Smoothies & Drinks",
+      "description": "Nutritious beverages including smoothies, juices, and fresh fruit drinks."
+    },
+    {
+      "id": 6,
+      "name": "Salads & Light Meals",
+      "description": "Low-calorie, high-fiber dishes — perfect as snacks or side meals."
+    }
+  ],
+  "ingredients": [
+    {
+      "foodId": 1,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 2,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 3,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 4,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 5,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 6,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 7,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 8,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 4,
+      "note": "fresh, chopped"
+    },
+    {
+      "foodId": 9,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 10,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 11,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 12,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 13,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 14,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 15,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 16,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 17,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 18,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 19,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 20,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 21,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 22,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 23,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 24,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 30,
+      "note": "raw"
+    },
+    {
+      "foodId": 25,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 26,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 27,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 28,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 29,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 30,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 31,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 30,
+      "note": "raw"
+    },
+    {
+      "foodId": 32,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 100,
+      "note": "cooked"
+    },
+    {
+      "foodId": 33,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 100,
+      "note": "cooked"
+    },
+    {
+      "foodId": 34,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 35,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 36,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 37,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 38,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 4,
+      "note": "fresh, chopped"
+    },
+    {
+      "foodId": 39,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 4,
+      "note": "fresh, chopped"
+    },
+    {
+      "foodId": 40,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18
+    },
+    {
+      "foodId": 41,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18
+    },
+    {
+      "foodId": 42,
+      "quantity": 10,
+      "unit": "grams",
+      "grams": 10
+    },
+    {
+      "foodId": 43,
+      "quantity": 150,
+      "unit": "grams",
+      "grams": 150,
+      "note": "frozen"
+    },
+    {
+      "foodId": 44,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 45,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 46,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 47,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 48,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 49,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 50,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 51,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 52,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 53,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 100,
+      "note": "cooked"
+    },
+    {
+      "foodId": 54,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 55,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 120,
+      "note": "plain"
+    },
+    {
+      "foodId": 56,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 57,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 58,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 59,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 60,
+      "quantity": 1,
+      "unit": "quarter-cup",
+      "grams": 35
+    },
+    {
+      "foodId": 61,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 30,
+      "note": "raw"
+    },
+    {
+      "foodId": 62,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 63,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 64,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 65,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 66,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 67,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 68,
+      "quantity": 150,
+      "unit": "grams",
+      "grams": 150,
+      "note": "frozen"
+    },
+    {
+      "foodId": 69,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 70,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 71,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 72,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 73,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 74,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 75,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 120,
+      "note": "plain"
+    },
+    {
+      "foodId": 76,
+      "quantity": 1,
+      "unit": "quarter-cup",
+      "grams": 35
+    },
+    {
+      "foodId": 77,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 78,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 79,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 80,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 81,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 82,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 83,
+      "quantity": 10,
+      "unit": "grams",
+      "grams": 10
+    },
+    {
+      "foodId": 84,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 85,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 30,
+      "note": "raw"
+    },
+    {
+      "foodId": 86,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 87,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 88,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 89,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 90,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 91,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18,
+      "note": "paste"
+    },
+    {
+      "foodId": 92,
+      "quantity": 1,
+      "unit": "tsp",
+      "grams": 3,
+      "note": "ground or powdered"
+    },
+    {
+      "foodId": 93,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 94,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 95,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 96,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 97,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 98,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 99,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18,
+      "note": "paste"
+    },
+    {
+      "foodId": 100,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 101,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 102,
+      "quantity": 1,
+      "unit": "tsp",
+      "grams": 3,
+      "note": "ground or powdered"
+    },
+    {
+      "foodId": 103,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 104,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18
+    },
+    {
+      "foodId": 105,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 106,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 107,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 30,
+      "note": "raw"
+    },
+    {
+      "foodId": 108,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 109,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 110,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18
+    },
+    {
+      "foodId": 111,
+      "quantity": 1,
+      "unit": "tsp",
+      "grams": 3,
+      "note": "ground or powdered"
+    },
+    {
+      "foodId": 112,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18
+    },
+    {
+      "foodId": 113,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 114,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18,
+      "note": "paste"
+    },
+    {
+      "foodId": 115,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 116,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 117,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 118,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 119,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 120,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 150,
+      "note": "raw"
+    },
+    {
+      "foodId": 121,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 122,
+      "quantity": 1,
+      "unit": "tsp",
+      "grams": 3,
+      "note": "ground or powdered"
+    },
+    {
+      "foodId": 123,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 14
+    },
+    {
+      "foodId": 124,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 125,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 126,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 127,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 128,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 129,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 130,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 131,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 100,
+      "note": "cooked"
+    },
+    {
+      "foodId": 132,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 30,
+      "note": "raw"
+    },
+    {
+      "foodId": 133,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100,
+      "note": "dry"
+    },
+    {
+      "foodId": 134,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 135,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    },
+    {
+      "foodId": 136,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18
+    },
+    {
+      "foodId": 137,
+      "quantity": 100,
+      "unit": "grams",
+      "grams": 100
+    },
+    {
+      "foodId": 138,
+      "quantity": 1,
+      "unit": "half-cup",
+      "grams": 60
+    },
+    {
+      "foodId": 139,
+      "quantity": 1,
+      "unit": "tbsp",
+      "grams": 18
+    },
+    {
+      "foodId": 140,
+      "quantity": 1,
+      "unit": "cup",
+      "grams": 110,
+      "note": "raw, chopped"
+    }
+  ]
+}
