@@ -1,7 +1,6 @@
 {
   "name": "nutrium-server",
   "version": "1.0.0",
-  "description": "Backend API for Nutrium using json-server",
   "private": true,
   "scripts": {
     "dev": "json-server --watch db.json --port 3000",
